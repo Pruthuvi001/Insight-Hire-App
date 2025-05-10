@@ -1,4 +1,7 @@
 # Insight-Hire-App
+
+COS30043-Interface Design and Development
+
 1. Overview
 The purpose of this assignment is to develop a web application named Insight Hire using
 Vue.js 3 and Bootstrap. This application allows users to browse for jobs, apply for jobs, and
